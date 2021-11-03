@@ -4,4 +4,10 @@ CryptoDen is a desktop application that performs data encryption and decryption 
 ## User Interface Preview
 
 ### Splash Screen  
-<img width="800" src="https://user-images.githubusercontent.com/79583632/140104349-1a8b4cac-755f-4950-ac7a-c7ce9c2f217b.jpg"/>
+<img width="600" src="https://user-images.githubusercontent.com/79583632/140104349-1a8b4cac-755f-4950-ac7a-c7ce9c2f217b.jpg"/>
+
+### UI Example 1 
+<img width="600" src="https://user-images.githubusercontent.com/79583632/140104354-8cbe62a0-b77c-4586-bf7c-9a0d89f5253e.jpg"/>
+
+### UI Example 2
+<img width="600" src="https://user-images.githubusercontent.com/79583632/140104352-bdf81ef4-11ce-4e04-8a53-9288ec501b14.jpg"/>
