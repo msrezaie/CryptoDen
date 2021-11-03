@@ -11,3 +11,10 @@ CryptoDen is a desktop application that performs data encryption and decryption 
 
 ### UI Example 2
 <img width="800" src="https://user-images.githubusercontent.com/79583632/140104352-bdf81ef4-11ce-4e04-8a53-9288ec501b14.jpg"/>
+
+## Requirements
+
+**To use this software you must have installed:**
+- Python v3.8.5
+- Qt v5.15.1
+- PySide2 v5.15.2
